@@ -14,6 +14,4 @@ Working with python PANDA's via Free Code Camp. While I made applications and ot
   
   Most importantly turning those data samples into solutions or possible outcomes.
 
-***This repository is just some small follow-along and some experimenting. Also includes some NUMPY***
-
-
+***This repository is just some small follow-along and some experimenting. Also includes some NUMPY. May also include random ipynb. Think of it as a personal learning dump folder***
