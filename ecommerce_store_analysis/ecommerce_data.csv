@@ -1,0 +1,101 @@
+Order ID,Customer ID,Category,Product,Price,Quantity,Total Cost,Purchase Date,Payment Method
+8a2a8db1-1398-4406-af9a-7803234736c4,4ec7960c-c8fc-44e0-914c-604cb33762e4,Electronics,Smartwatch,138.95,2,277.9,2024-08-13,Cryptocurrency
+ffe60ca1-67ed-4aa3-b50e-e19d4691915d,cc081fe4-6de9-4838-b4a2-5463110df24e,Beauty,Lipstick,489.61,3,1468.83,2024-07-01,PayPal
+51d62960-95c6-4c1a-8056-55a27522a65c,25f8f7b0-5bb2-438f-a607-49831d647ecc,Sports,Running Shoes,182.01,3,546.03,2024-09-15,PayPal
+65650a02-31dc-41e6-801b-3c33575ec9b6,f13cbf81-2af6-4715-a996-e3f27e033637,Clothing,Sneakers,305.63,3,916.89,2025-01-11,PayPal
+aa0f5bb6-359e-43b6-a49f-adac574f5692,53386611-5a1f-41ef-9511-1e9fc3e575bb,Sports,Basketball,19.38,3,58.14,2024-07-17,Cryptocurrency
+ea108527-38a4-4cb3-aae7-cb75d3dc61f5,d804eefb-2aed-4a0b-8a7b-3888925a8ee7,Beauty,Lipstick,30.74,5,153.7,2024-03-10,Cryptocurrency
+b5eac68a-0589-4c3d-b398-e7a4139205e8,d216943e-ddc1-43db-9979-531821532883,Beauty,Foundation,163.78,1,163.78,2024-08-07,PayPal
+9fcab959-d954-4714-b93d-50bd6a2729e3,d9dc2ee2-5c23-450b-aaf4-991e9f089923,Clothing,Sweater,298.27,3,894.81,2024-07-01,Gift Card
+3d51ae0e-cd7e-420d-ac03-a7384438c687,aef515d5-0d12-4c46-9ad2-6c3d24f1b745,Electronics,Headphones,418.3,5,2091.5,2024-02-23,Cryptocurrency
+fc1e3a71-3e7b-4100-bf3c-b02076e2bc82,876ba78f-8932-4ec7-9d54-efc658f58b49,Home & Kitchen,Blender,104.52,3,313.56,2024-10-09,Gift Card
+45908972-6db0-40c9-a762-7634cd643778,052b2572-bbc1-409e-a115-8cf87f35be63,Home & Kitchen,Air Fryer,42.45,5,212.25,2024-04-14,Debit Card
+b08d8d98-e1b8-4808-be5b-a27feda7b5ab,a17d7fc0-cb51-4d4e-a409-9eb439b1add4,Clothing,Jeans,432.85,5,2164.25,2024-09-09,Cryptocurrency
+ccc180d5-7c08-43e4-afff-49eeee85b224,cad551c2-94c1-4d08-b737-5d7fdb59fbe8,Sports,Yoga Mat,280.15,5,1400.75,2024-08-12,Gift Card
+966e37ca-7da9-48b6-9b4b-6a1657e16a8a,1fb1ec58-126e-4f7d-9e66-8af5b9441b28,Clothing,Jeans,149.95,2,299.9,2024-08-14,Gift Card
+a7c3aac3-c7fc-41da-8e93-94f0b777f9ff,cd2722e0-5233-4f1c-9c3d-8c5b63c3292e,Clothing,Sneakers,402.47,2,804.94,2024-03-30,Debit Card
+5b3c67e0-f4c4-402a-8606-183f21047004,04697f11-df29-4880-9b3f-e9b3d32b7d83,Beauty,Lipstick,174.86,4,699.44,2024-12-06,Cryptocurrency
+816e75eb-1c56-4349-93ae-a0dad3b77287,0baf35c5-9c28-4219-9bec-87a1a642331f,Sports,Basketball,470.25,5,2351.25,2024-07-09,Cryptocurrency
+9fddd7f2-e0a1-40a1-ad95-04c6822e1529,e0e0a9e7-2fb2-45c6-bee0-3390fb197402,Sports,Basketball,46.68,3,140.04,2024-10-28,Credit Card
+118fcc97-6432-43c4-8db6-ce0cf631f2a9,1b043e03-c75d-41a1-8f95-e03dc7072c9e,Clothing,Jacket,72.63,1,72.63,2024-07-10,Credit Card
+81455746-5934-47e1-ba17-8e078363de95,f02f8f7c-fea9-4df5-8e3e-d58f1ab99bff,Electronics,Smartphone,148.26,2,296.52,2024-11-02,Cryptocurrency
+1290aca4-5597-480a-b7a5-22bc846f8fa3,3f0096b8-34e9-41cc-9054-8e0b2729fbe3,Electronics,Tablet,194.96,5,974.8,2024-03-30,Cryptocurrency
+b145f718-dcd6-457e-8a59-49752a2b834f,a3661fc1-a4e2-4b3a-9e04-f54bbb50b95a,Beauty,Lipstick,349.24,5,1746.2,2024-03-18,Credit Card
+50df8cb3-6107-44d7-98dd-1f66a9f68099,90bddefb-a37c-41c3-9583-5d41b6b80cbf,Clothing,Sneakers,224.67,5,1123.35,2024-04-22,Gift Card
+be991a7e-b236-4d8d-99b4-d5386c50358c,0e9b2e1e-1800-4f40-85cf-9c0369b36927,Home & Kitchen,Vacuum Cleaner,197.94,1,197.94,2024-12-25,PayPal
+d73b0ac5-0d42-4298-8dae-7a574547cb56,8a15162d-b09d-4c5d-aee4-2d5633530516,Sports,Basketball,174.6,3,523.8,2024-11-01,Gift Card
+5fa81d6e-9378-4e25-9216-bd0d3d5cf82a,95fb496e-d4a2-4b6e-88b3-d3c272b5acb0,Electronics,Laptop,285.81,3,857.43,2024-08-09,PayPal
+46d53c1d-820f-4c5c-a34d-0616047b73ec,401887e8-0f92-4fbb-b981-c0331da7f3c1,Electronics,Smartphone,245.93,4,983.72,2025-01-21,Debit Card
+51915417-388b-446e-a22a-e1edfefa21a6,f9dc89dc-b9f6-4124-8181-d71d9adffbc7,Home & Kitchen,Vacuum Cleaner,259.59,1,259.59,2025-01-22,Cryptocurrency
+01b6bfa5-f321-4fb0-acd3-003d834cd59e,872635c1-a451-4989-bc74-4cd882a41a04,Sports,Yoga Mat,42.47,4,169.88,2024-04-05,Cryptocurrency
+07d56cc9-8f12-42a1-a014-3e2ac3d6c80c,0ef81ce2-f680-4328-8d97-0258e808634d,Sports,Tennis Racket,106.51,2,213.02,2024-07-01,Credit Card
+59784dfd-baeb-4d59-a20c-0835614edb6e,e481b594-e15e-4c18-9836-ce3191d34dc3,Electronics,Tablet,155.52,1,155.52,2024-05-16,PayPal
+cfc40c6f-6b9d-40f8-a0dc-170d623a6de7,f44d812e-572f-44e1-a1cf-5c841f5a0bf2,Beauty,Foundation,297.14,3,891.42,2024-10-05,Gift Card
+7d1c7d47-a21f-473e-a43d-92fe445dfe19,b2806238-5e46-453c-8488-a3ea37b36b9d,Sports,Running Shoes,171.91,2,343.82,2024-07-20,Cryptocurrency
+2a91f984-74ca-442f-a557-7818d2a92cf3,b9cfab31-3d60-446f-a835-8b64e041c218,Beauty,Face Cream,460.36,4,1841.44,2024-10-13,Cryptocurrency
+ff13911a-9e50-443d-8320-1ea52944f74c,b721497a-606e-4281-a2a4-802d64306fa4,Home & Kitchen,Blender,222.01,2,444.02,2024-07-07,Debit Card
+d2774ab4-f902-4d4b-aaaa-814eef14731d,728e300f-d927-435e-bcf5-1d6f0865f63a,Home & Kitchen,Microwave,129.07,5,645.35,2024-09-16,Credit Card
+286a8819-90c9-4917-8b29-21c00f884fd9,1efd4ebd-075f-44f9-a081-62b83461e39e,Sports,Running Shoes,22.42,4,89.68,2024-08-15,PayPal
+ec6b720b-8a0e-4a3b-a2a1-5d70aa8812c3,018ebe17-2864-4376-aea1-d5069beceab6,Sports,Tennis Racket,378.33,3,1134.99,2024-03-03,Credit Card
+2b22c6bd-2f67-4612-8c89-0edb6cc1e961,bfea1283-3f4b-4432-b3b5-2e5b5ab2c703,Home & Kitchen,Vacuum Cleaner,122.66,4,490.64,2024-05-30,Credit Card
+3dd66ed7-7ee7-4a39-b527-3dd0859d8a72,9d5deae5-f67e-4fef-8acc-a43b4e5dbec2,Electronics,Smartphone,132.21,5,661.05,2024-11-07,Debit Card
+ed08e86d-a4a5-4b72-95de-e4a4ecadea78,f336d238-a013-403e-a572-eb161769389c,Beauty,Face Cream,336.36,3,1009.08,2024-03-24,Debit Card
+c64a7891-82d6-4382-af09-a988a92a0234,2d06684c-da5c-4fdb-8e60-1231a71c6031,Home & Kitchen,Air Fryer,316.48,5,1582.4,2024-10-24,Gift Card
+58af1ab7-47c8-4ee7-98ca-b9c4dc626c1d,15302f22-1b66-4429-81b5-68ebc8282940,Sports,Basketball,172.27,5,861.35,2024-04-18,Gift Card
+5fc26f6f-3582-4f14-8ba9-6fd10650ca1e,f61eba32-98bc-4d5e-a24e-14b4ce1c7a9c,Sports,Dumbbells,166.07,3,498.21,2024-11-04,PayPal
+ca72502b-da54-48fc-b4a7-3283ea6cddd6,a987a26f-2e74-4d84-b8e6-5c5509e7cf3f,Electronics,Headphones,173.67,3,521.01,2024-02-24,Gift Card
+59914de4-0728-4737-a0f6-e533c577109b,ed5f64ef-249c-4ef5-96a8-14d4c8b27173,Home & Kitchen,Air Fryer,275.48,5,1377.4,2024-11-28,Debit Card
+767e0c31-4f1d-4a22-aab9-a137905e79b4,43e89ce6-9215-4da7-8b95-d1843f8dc1a1,Electronics,Headphones,215.58,4,862.32,2024-05-09,PayPal
+0097bc19-889a-495a-8ee7-7853816261e4,a9e91ffa-ecce-4239-a517-c2bea9c98049,Beauty,Face Cream,291.17,4,1164.68,2024-07-12,Gift Card
+07bfaffb-d269-4833-b6c7-08ea7d7a5562,99309ea6-d11b-40ed-add6-145456483ca0,Home & Kitchen,Coffee Maker,450.04,5,2250.2,2024-03-09,Debit Card
+66883e00-87a8-48ce-8c7c-bff83949625e,01421be7-5a17-4b5c-85f6-a6129f929d90,Electronics,Smartphone,259.32,4,1037.28,2024-02-29,Gift Card
+87be76b7-7a63-4e03-aa72-8f3b38947611,5d8a7187-d16d-4c0d-a3c7-cca88f8f897e,Sports,Tennis Racket,27.5,1,27.5,2024-05-28,PayPal
+843e11a0-4b6d-4eda-80fb-34b48a6d4b17,25669010-158e-4a03-a1e7-a8b3ba3bccaa,Electronics,Smartwatch,199.57,5,997.85,2024-06-02,Debit Card
+e7341c57-7f4c-4cd3-b20c-6c4aa76aa6ac,5a69b55e-c450-42a5-9e36-cf378456ed0e,Sports,Tennis Racket,38.21,4,152.84,2024-12-18,PayPal
+ac786d01-e10b-48a4-8f53-9207282395c9,16716f27-08dd-4856-9e7c-9ad84a977205,Clothing,Sweater,492.73,5,2463.65,2024-04-09,PayPal
+632ae97c-75e1-4ad7-b96b-ea7f956a6d7a,68fb8666-5b23-4d66-9a7b-3825914b63df,Electronics,Laptop,24.24,1,24.24,2024-06-25,Cryptocurrency
+74d88a1f-7445-44fd-bb4d-c27e844dfbb4,51995e19-5a5e-4531-bda1-1642e1289e4a,Clothing,T-Shirt,32.76,1,32.76,2024-07-01,Credit Card
+419cb18a-e3e6-45cd-a9ed-ee5513316a42,7a6e5046-8abc-4127-9fc9-c2a31645c972,Electronics,Smartwatch,396.7,1,396.7,2024-09-11,Gift Card
+c18ce9da-734d-4f8d-b37e-867f065f0745,0d3242b2-76ed-4824-8341-32b16452addc,Beauty,Shampoo,469.21,1,469.21,2024-02-25,Cryptocurrency
+bc08364e-6646-4fce-bd7c-a34da70d7dfb,db699245-8d1e-4149-a509-f25ba4bdbeb5,Home & Kitchen,Coffee Maker,303.74,3,911.22,2024-09-20,PayPal
+bbc13c8e-9cbc-4633-86bc-207d492c04d6,d1bb2451-54a3-4781-ac34-d0626fd2493f,Sports,Running Shoes,261.64,5,1308.2,2024-03-04,PayPal
+f99ff2d9-f39b-4b5a-a55d-a1554b924c36,c46c0f5b-6555-449a-bb26-23eb848e5430,Electronics,Tablet,28.99,2,57.98,2024-07-31,Credit Card
+1bc3f2df-4a5f-468d-8b19-041412364f31,acd061bd-941d-48dd-880d-e63fa46c7734,Clothing,Jacket,364.54,5,1822.7,2024-11-10,Gift Card
+525c2ff9-f119-4718-8a54-a5ad3336f345,1ac9a25c-9cbf-41fd-b3aa-d5bd4ba84fed,Clothing,Sweater,291.22,2,582.44,2025-01-13,Gift Card
+77069cf2-c8a9-4add-84b5-c0ff9e075ffe,0f828776-509a-46b2-a6dd-fc71b3028340,Clothing,Jacket,396.87,3,1190.61,2024-06-21,Credit Card
+70426dc7-2bb2-4c2c-9124-4a91ad1e7910,d5e920c0-13a6-463c-8957-98e5aae7ac4f,Clothing,Sneakers,174.24,5,871.2,2024-10-13,Credit Card
+bed686dc-5f57-42ba-856f-9e0629c6e148,fcd6c9a9-2818-4047-a95a-724deaa7be91,Sports,Dumbbells,145.99,4,583.96,2024-06-29,Credit Card
+35faea8c-669f-409a-8f38-2d8c402b50a0,6c79cd1c-8905-404d-bbac-a19b610410c4,Beauty,Face Cream,172.07,4,688.28,2024-02-23,Debit Card
+693fecff-e50b-474b-a621-58ece3b9aca1,9120474b-5521-424d-8647-ba139c8db401,Sports,Running Shoes,205.05,3,615.15,2024-07-28,Debit Card
+e571c8df-b190-4f70-87d4-b77fdc03df86,654ce7a7-efd0-48a4-bcf8-b298612ff56a,Beauty,Shampoo,36.51,5,182.55,2024-04-23,Cryptocurrency
+7abe9e51-0187-4c71-900f-0f280f62f4df,10db21d9-f496-4ab4-88ee-936ab0b7bd8b,Clothing,Jeans,14.44,4,57.76,2024-09-23,PayPal
+4ecec1b2-7097-4506-ad7c-a4da7ecfc452,8d3b1a59-bfc5-435d-a9b2-7d8481b382f4,Clothing,Sneakers,122.52,2,245.04,2024-09-19,Gift Card
+d83ce41c-bebd-4c8f-a824-83488a16d76f,b7ce7c47-c7a5-4405-8bc0-fc660dceca17,Electronics,Tablet,151.2,4,604.8,2024-10-26,Cryptocurrency
+04018787-699a-4952-9e08-827d5c7a183b,1d472984-f987-4fc7-ae14-6bfbf4e32a16,Home & Kitchen,Coffee Maker,128.39,3,385.17,2024-10-17,Cryptocurrency
+64d21cfc-9d94-4b38-9734-8c65adc6cf11,47372243-8bd7-4073-a5c6-83016054c3d4,Beauty,Foundation,161.87,4,647.48,2024-04-23,Debit Card
+7ea15117-cdf0-4ff4-8a2a-44666f191c64,66b2ee3e-05d8-475a-b072-933563a40dfc,Electronics,Tablet,439.2,4,1756.8,2024-08-26,Credit Card
+3d965673-0a3f-49d4-9b72-cdbee90a6073,92088c46-8ca0-4669-95cc-6c41d6b0d5d5,Sports,Tennis Racket,325.92,4,1303.68,2024-06-12,Debit Card
+a97c0427-49dc-4168-85cf-001fdeba2701,7dcdb27d-0f2e-4a0b-ae45-fd3da493d5d3,Clothing,T-Shirt,366.14,3,1098.42,2024-10-21,Debit Card
+459d7452-e557-48f8-929e-1ab1878b2c91,7e438200-5c46-489f-9582-4b33dce73fa7,Electronics,Headphones,273.08,2,546.16,2025-01-26,Credit Card
+f75e3e8b-9a91-484c-9146-bc16d2d490d5,7764af48-4174-4b70-b643-f6fcb0840ab7,Home & Kitchen,Vacuum Cleaner,100.5,1,100.5,2025-01-28,Debit Card
+cebda81e-605b-40f1-b21e-cd7cd5cd291c,830154cd-5762-457f-92c8-9d8867a52741,Home & Kitchen,Vacuum Cleaner,230.08,3,690.24,2024-02-22,Cryptocurrency
+ef1ebabe-d94f-46e3-bef8-84aaeb3c2c21,b24b3cae-a5f5-4b11-9049-d416a01edc3c,Sports,Running Shoes,19.81,4,79.24,2024-10-30,Debit Card
+283d5c24-111b-4593-b046-4d6c64ada2c4,fe4c01d0-1fee-4ed1-8a03-1e7fc97cda22,Sports,Tennis Racket,26.57,4,106.28,2024-08-16,Debit Card
+9dfb92dc-27d5-4e3d-ab11-7fb1608d9b70,5b3cf993-a59e-43dc-ad11-2eb6df1ce9c8,Beauty,Lipstick,464.08,1,464.08,2024-04-27,Credit Card
+f25247a4-9a69-47d1-89da-3f1c44cf1b04,9d2f7449-b332-4741-a42a-2758a0ae7484,Home & Kitchen,Microwave,35.06,1,35.06,2024-04-03,Debit Card
+cfab8612-6ff4-4e31-a4b7-c0b436cef7ff,d3026a34-d8dd-47d4-9ebb-3f09377e7056,Sports,Tennis Racket,324.6,5,1623.0,2024-04-10,Credit Card
+2651a2af-9446-4bcb-b7b3-a9593aa4264d,e4ac9cef-5038-4b3b-8e61-9d8b949220fe,Home & Kitchen,Vacuum Cleaner,378.4,1,378.4,2024-12-05,Gift Card
+38f82e46-4dde-4ce7-8ed3-3145586ee0b3,260c9206-aba7-46b3-83c8-f40150b1e617,Clothing,T-Shirt,144.2,2,288.4,2024-04-13,Cryptocurrency
+bf457fe0-cc14-4d47-99bd-ac83972782a2,081d1d9e-685a-4fa0-9fcc-1a062b0d6908,Sports,Tennis Racket,388.48,3,1165.44,2025-01-27,Credit Card
+eec359af-e952-45cd-b013-a0e44a60470d,b1f1685a-41a8-449e-b9b4-884b87a1c3db,Sports,Yoga Mat,218.8,3,656.4,2024-11-30,Cryptocurrency
+1d9155b9-efd1-4465-bc1e-8227a418a10f,dd38f15e-026e-4fde-9d63-cf1c81070919,Beauty,Foundation,202.39,5,1011.95,2024-12-08,Cryptocurrency
+e1aec743-4c70-44ec-915d-a68b03d68e97,99fb2a81-fafa-4c60-8491-49d4c9030785,Clothing,T-Shirt,274.13,4,1096.52,2024-06-18,PayPal
+6b48a26e-5d5b-411f-ba47-fdf0b1f911cc,37e2fcf1-b5f5-4a67-97a5-74e2a6b95a0c,Clothing,Jacket,278.77,1,278.77,2024-08-04,Credit Card
+dc8d1506-b4c6-47f0-8b32-c60326391f65,2115bfcf-3fb4-4eb3-9120-7e8331766055,Home & Kitchen,Air Fryer,247.13,4,988.52,2024-06-18,Credit Card
+7f5c5deb-c09b-49e9-ab2a-f2a8e3a5e1dd,7a53cc17-9b5d-4c6c-b12d-65d7c2f50ec0,Clothing,Jeans,223.81,1,223.81,2024-04-06,Debit Card
+ca7fc688-ece8-4453-8090-8e9e598eded5,0b5255be-0b8d-41ba-bfa2-45a4c7b9ed2e,Sports,Basketball,131.37,1,131.37,2024-12-08,PayPal
+8c5b9d28-9bb3-42f4-84a8-8c2d21b53c6a,dd58879c-0c70-43ca-94b5-945aeb683332,Electronics,Smartwatch,495.78,5,2478.9,2024-07-13,Debit Card
+5b6c5743-223f-487e-bc57-939043cb2f90,341149a0-63f9-4034-9c1c-08c63f469675,Clothing,Sneakers,225.05,5,1125.25,2025-02-15,Credit Card
+5ed35b64-44bc-416c-a616-3e2d005dc34f,38942587-d9b6-4654-a577-9b98a6ef6e63,Clothing,Sneakers,208.49,1,208.49,2024-05-18,PayPal
+77695a19-5aa3-4bbb-a90a-01bcada552c2,36ac9583-80b4-4519-b09d-cf71ac9d7388,Beauty,Lipstick,143.45,1,143.45,2024-04-10,Gift Card
+d63ecc16-0908-48d6-93f5-dbcd78e35e0d,6687f4d7-1c24-43c7-8c97-8a670fbfb44b,Home & Kitchen,Vacuum Cleaner,376.29,4,1505.16,2024-04-12,Gift Card
